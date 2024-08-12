@@ -1,3 +1,3 @@
 # Mineria-de-Datos
 
-Este repositorio contiene exclusivamente archivos HTML que ilustran el proceso de limpieza de datos en diversos ejercicios, utilizando los lenguajes de programación Python y R.
+Este repositorio contiene exclusivamente archivos HTML. Se recomienda descargar los archivos y abrirlos en tu navegador de preferencia para una mejor visualización.
